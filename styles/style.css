@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+  .containar{
+    width: 40%;
+
+ margin-left: 80px;
+margin-top: 8px;
+ justify-content: space-between;
+   overflow:scroll;
+   float: left;
+   height: 350px;
+   border: 1px solid rgb(190, 189, 189);
+   
+  }
