@@ -1,0 +1,12 @@
+.color{
+    color: red;
+    font-size: 18px;
+    font-weight: 600;
+}
+.containar{
+margin-top: 8px;
+   overflow:scroll;
+   float: left;
+   border: 1px solid rgb(190, 189, 189);
+   
+  }
